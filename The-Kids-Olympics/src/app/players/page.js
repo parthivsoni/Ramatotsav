@@ -214,7 +214,7 @@ const KidsPage = () => {
                   "Sarangpur",
                   "Raipur Sanskardham",
                   "Raipur Sanskardham Shishu",
-                  "Raipur 2",
+                  "Raipur Bangla ni pole",
                   "New Entry",
                 ].map((sabha) => (
                   <SelectItem
