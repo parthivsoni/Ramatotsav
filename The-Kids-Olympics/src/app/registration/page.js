@@ -289,6 +289,9 @@ const RegistrationPage = () => {
                   <SelectItem value="Raipur Sanskardham Shishu">
                     Raipur Sanskardham Shishu
                   </SelectItem>
+                  <SelectItem value="Raipur - 2">
+                    Raipur - 2
+                  </SelectItem>
                 </SelectContent>
               </Select>
             </div>
